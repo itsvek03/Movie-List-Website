@@ -1,0 +1,73 @@
+[
+    { "id":"1",
+    "name":"RRR",
+    "Genre":"Action",
+    "Stock":"34",
+    "Status":"Super Hit"
+},
+{
+    "id":"2",
+    "name":"Bhool BHulaiya",
+    "Genre":"Comedy",
+    "Stock":"12",
+    "Status":"Super Hit"
+},
+{
+    "id":"3",
+    "name":"Jayesh BHai",
+    "Genre":"Comedy",
+    "Stock":"2",
+    "Status":"Flop"
+},
+{
+    "id":"4",
+    "name":"KGF 2",
+    "Genre":"Action",
+    "Stock":"341",
+    "Status":"Super Hit"
+},
+{
+    "id":"5",
+    "name":"Attack",
+    "Genre":"Action",
+    "Stock":"34",
+    "Status":"Flop"
+},
+{
+    "id":"6",
+    "name":"Major",
+    "Genre":"Drama",
+    "Stock":"34",
+    "Status":"Hit"
+},
+{
+    "id":"7",
+    "name":"Vikram",
+    "Genre":"Action",
+    "Stock":"34",
+    "Status":"Super Hit"
+},
+{
+    "id":"8",
+    "name":"Dhaakad",
+    "Genre":"Action",
+    "Stock":"34",
+    "Status":"Flop"
+},
+{
+    "id":"9",
+    "name":"1983",
+    "Genre":"Drama",
+    "Stock":"34",
+    "Status":"Flop"
+},
+{
+    "id":"10",
+    "name":"GanguBhai",
+    "Genre":"Action",
+    "Stock":"34",
+    "Status":"Flop"
+}
+
+]
+   
